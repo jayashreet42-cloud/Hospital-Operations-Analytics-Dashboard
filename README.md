@@ -80,3 +80,10 @@ Developed an interactive Excel dashboard to organise and analyse hospital operat
 ---
 
 **Created as an academic portfolio project as part of my MBA Healthcare Management learning journey.**
+## Dashboard Preview
+
+### Hospital Operations Dashboard
+![Hospital Operations Dashboard](Dashboard_Screenshot.png)
+
+### Department Analysis
+![Department Analysis](Department_Analysis.png)
